@@ -21,6 +21,7 @@ h2 .highlight{
 h3{
     font-size: 1.5em;
 }
+
 .content-container{
     
     
@@ -42,6 +43,10 @@ h3{
     background-color: rgb(27, 25, 56);
     border-radius: 15px;
 }
+.img-container{
+    position: relative;
+
+}
 
 .img-container img{
 border-radius: 15px 15px 0 0;
@@ -49,6 +54,19 @@ border-radius: 15px 15px 0 0;
 width: 100%;
 height: 100%;
 
+}
+.overlay{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border: solid red ;
+    position: absolute;
+    background-color: 
+    rgba(170, 92, 219,.3)
+    
+    
+    ;
 }
 .text-wrapper{
     padding:40px 32px ;
