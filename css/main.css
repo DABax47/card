@@ -26,7 +26,7 @@ h3{
     
     
     background-color: rgb(9, 11, 26);
-    /* height: 100%; */
+   
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,15 +62,12 @@ height: 100%;
     left: 0;
     position: absolute;
     background-color: 
-    rgba(170, 92, 219,.3)
-    
-    
-    ;
+    rgba(170, 92, 219,.3);
 }
 .text-wrapper{
     padding:40px 32px ;
     text-align: center;
-    /* flex-basis: 100%; */
+  
     display: flex;
     flex-direction: column;
     justify-content:  space-between;
@@ -111,7 +108,7 @@ height: 100%;
 
 }
 .heading-container{
-   /* flex-basis: 50%; */
+
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -127,7 +124,7 @@ height: 100%;
 
 }
 .img-container img{
-    /* flex-basis: 100%; */
+   
 
     border-radius: 0px 15px 15px 0;
 
